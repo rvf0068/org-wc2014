@@ -1,78 +1,109 @@
-#TITLE: Schedule for Euro2012
-#TAGS: euro2012
+#+TITLE: Schedule for 2014 World Cup
+#+TAGS: wc2014
 
-* Schedule for the 2012 UEFA European Championship
- - source: http://en.wikipedia.org/wiki/UEFA_Euro_2012_schedule
- - all times are in UTC+2 (Central European Summer Time) (but see the function
-   to change this at the end)
- - maintained at https://github.com/djcb/org-euro2012
+* Schedule for 2014 World Cup
 
-** Meta :meta:
-*** opening ceremony <2012-06-08 16:00>
-*** closing ceremony <2012-07-01 18:45>
+** Group A							     :GroupA:
 
-** Group A 							      :GroupA:
-# Poland, Greece, Russia, Czech Republic
-*** Poland - Greece           1-1
-    <2012-06-08 18:00>
-*** Russia - Czech Republic   4-1
-    <2012-06-08 20:45>
-*** Greece - Czech Republic   1-2
-    <2012-06-12 18:00>
-*** Poland - Russia           1-1
-    <2012-06-12 20:45>
-*** Czech Republic - Poland   1-0
-    <2012-06-16 20:45>
-*** Greece - Russia           1-0
-    <2012-06-16 20:45>
+*** Brazil - Croatia
+    <2014-06-12 Thu 15:00>
+*** Mexico - Cameroon
+    <2014-06-13 Fri 11:00>
+*** Brazil - Mexico
+    <2014-06-17 Tue 14:00>
+*** Cameroon - Croatia
+    <2014-06-18 Wed 17:00>
+*** Cameroon - Brazil
+    <2014-06-23 Mon 15:00>
+*** Croatia - Mexico
+    <2014-06-23 Mon 15:00>
 
-** Group B 							      :GroupB:
-# Netherlands, Denmark, Germany, Portugal
-*** Netherlands - Denmark     0-1
-    <2012-06-09 18:00>
-*** Germany - Portugal        1-0
-   <2012-06-09 20:45>
-*** Denmark - Portugal        2-3
-    <2012-06-13 18:00>
-*** Netherlands - Germany     1-2
-    <2012-06-13 20:45>
-*** Portugal - Netherlands    2-1
-    <2012-06-17 20:45>
-*** Denmark - Germany         1-2
-    <2012-06-17 20:45>
+** Group B							     :GroupB:
 
+*** Spain - The Netherlands
+    <2014-06-13 Fri 14:00>
+*** Chile - Australia
+    <2014-06-13 Fri 17:00>
+*** Australia - The Netherlands
+    <2014-06-18 Wed 11:00>
+*** Spain - Chile
+    <2014-06-18 Wed 14:00>
+*** Australia - Spain
+    <2014-06-23 Mon 11:00>
+*** The Netherlands - Chile
+    <2014-06-23 Mon 11:00>
 
-** Group C 							      :GroupC:
-# Spain, Italy, Ireland, Croatia
-*** Spain - Italy             1-1
-    <2012-06-10 18:00>
-*** Ireland - Croatia         1-3
-    <2012-06-10 20:45>
-*** Italy - Croatia           1-1
-    <2012-06-14 18:00>
-*** Spain - Ireland           4-0
-    <2012-06-14 20:45>
-*** Croatia - Spain           0-1
-    <2012-06-18 20:45>
-*** Italy - Ireland           2-0
-    <2012-06-18 20:45>
+** Group C							     :GroupC:
 
+*** Colombia - Greece
+    <2014-06-14 Sat 11:00>
+*** Cote d'Ivoire - Japan
+    <2014-06-14 Sat 20:00>
+*** Colombia - Cote d'Ivoire
+    <2014-06-19 Thu 11:00>
+*** Japan - Greece
+    <2014-06-19 Thu 17:00>
+*** Japan - Colombia
+    <2014-06-24 Tue 15:00>
+*** Greece - Cote d'Ivoire
+    <2014-06-24 Tue 15:00>
 
-** Group D 							      :GroupD:
-# France, England, Ukraine, Sweden
-*** France - England          1-1
-    <2012-06-11 18:00>
-*** Ukraine - Sweden          2-1
-    <2012-06-11 20:45>
-*** Ukraine - France          0-2
-    <2012-06-15 18:00>
-*** Sweden - England          2-3
-    <2012-06-15 20:45>
-*** England - Ukraine         1-0
-    <2012-06-19 20:45>
-*** Sweden - France           2-0
-    <2012-06-19 20:45>
+** Group D							     :GroupD:
 
+*** Uruguay - Costa Rica
+    <2014-06-14 Sat 14:00>
+*** England - Italy
+    <2014-06-14 Sat 17:00>
+*** Uruguay - England
+    <2014-06-19 Thu 14:00>
+*** Italy - Costa Rica
+    <2014-06-20 Fri 11:00>
+*** Italy - Uruguay
+    <2014-06-24 Tue 11:00>
+*** Costa Rica - England
+    <2014-06-24 Tue 11:00>
+
+** Group E							     :GroupE:
+
+*** Switzerland - Ecuador
+    <2014-06-15 Sun 11:00>
+
+*** France - Honduras
+    <2014-06-15 Sun 14:00>
+
+*** Switzerland - France
+    <2014-06-20 Fri 14:00>
+
+*** Honduras - Ecuador
+    <2014-06-20 Fri 17:00>
+
+*** Honduras - Switzerland
+    <2014-06-25 Wed 15:00>
+
+*** Ecuador - France
+    <2014-06-25 Wed 15:00>
+
+** Group F							     :GroupF:
+
+*** Argentina - Bosnia-Herzegovina
+    <2014-06-15 Sun 17:00>
+
+*** Iran - Nigeria
+    <2014-06-16 Mon 14:00>
+
+*** Argentina - Iran
+    <2014-06-21 Sat 11:00>
+
+*** Nigeria - Bosnia-Herzegovina
+    <2014-06-21 Sat 17:00>
+
+*** Nigeria - Argentina
+    <2014-06-25 Wed 11:00>
+
+*** Bosnia-Herzegovina - Iran
+    <2014-06-25 Wed 11:00>
+
+** Group G							     :GroupG:
 
 ** Quarter-finals 						   :QtFinals:
 *** (1) Czech Republic - Portugal    0-1
