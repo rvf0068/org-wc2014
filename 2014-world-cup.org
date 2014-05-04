@@ -1,5 +1,6 @@
 #+TITLE: Schedule for 2014 World Cup
 #+TAGS: wc2014
+# Source: http://www.fifa.com/worldcup/matches/index.html
 
 * Schedule for 2014 World Cup
 
@@ -105,25 +106,104 @@
 
 ** Group G							     :GroupG:
 
+*** Germany - Portugal
+    <2014-06-16 Mon 11:00>
+
+*** Ghana - USA
+    <2014-06-16 Mon 17:00>
+
+*** Germany - Ghana
+    <2014-06-21 Sat 14:00>
+
+*** USA - Portugal
+    <2014-06-22 Sun 17:00>
+
+*** Portugal - Ghana
+    <2014-06-26 Thu 11:00>
+
+*** USA - Germany
+    <2014-06-26 Thu 11:00>
+
+** Group H							     :GroupH:
+
+*** Belgium - Algeria
+    <2014-06-17 Tue 11:00>
+
+*** Russia - Korea Republica
+    <2014-06-17 Tue 17:00>
+
+*** Belgium - Russia
+    <2014-06-22 Sun 11:00>
+
+*** Korea Republic - Algeria
+    <2014-06-22 Sun 14:00>
+
+*** Korea Republic - Belgium
+    <2014-06-26 Thu 15:00>
+
+*** Algeria - Russia
+    <2014-06-26 Thu 15:00>
+
+** Round of 16							  :RoundOf16:
+
+*** 1A - 2B
+    <2014-06-28 Sat 11:00>
+
+*** 1C - 2D
+    <2014-06-28 Sat 15:00>
+
+*** 1B - 2A
+    <2014-06-29 Sun 11:00>
+
+*** 1D - 2C
+    <2014-06-29 Sun 15:00>
+
+*** 1E - 2F
+    <2014-06-30 Mon 11:00>
+
+*** 1G - 2H
+    <2014-06-30 Mon 15:00>
+
+*** 1F - 2E
+    <2014-07-01 Tue 11:00>
+
+*** 1H - 2G
+    <2014-07-01 Tue 15:00>
+
 ** Quarter-finals 						   :QtFinals:
-*** (1) Czech Republic - Portugal    0-1
-    <2012-06-21 20:45>
-*** (2) Germany - Greece             4-2
-    <2012-06-22 20:45>
-*** (3) Spain - France               2-0
-    <2012-06-23 20:45>
-*** (4) England - Italy              2-4
-    <2012-06-24 20:45>
 
+*** W53 - W54
+    <2014-07-04 Fri 11:00>
+
+*** W49 - W50
+    <2014-07-04 Fri 15:00>
+
+*** W55 - W56
+    <2014-07-05 Sat 11:00>
+
+*** W51 - W52
+    <2014-07-05 Sat 15:00>
+    
 ** Semi-finals 							   :SemiFinals:
-*** (1) Portugal - Spain
-    <2012-06-27 20:45>
-*** (2) Germany - Italy
-    <2012-06-28 20:45>
 
+*** W57 - W58
+    <2014-07-08 Tue 15:00>
+
+*** W59 - W60
+    <2014-07-09 Wed 15:00>
+
+** Third Place
+
+*** L61 - L62
+    <2014-07-12 Sat 15:00>
+    
 ** Final							       :Final:
-*** Winner SemiFinals 1 - Winner SemiFinals 2
-    <2012-07-01 20:45>
+
+*** W61 - W62
+    <2014-07-13 Sun 14:00>
+
+
+* COMMENT Maintenance
 
 #+begin_src emacs-lisp
 (defun update-org-hours (n)
